@@ -7,7 +7,8 @@
 ![HTTPS](https://img.shields.io/badge/HTTPS-Secure-green?style=flat&logo=ssl)
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
-A project using cloud-based IoT system using various Azure services. It explores telemetry ingestion, transport protocols, and cloud data processing through both software and hardware emulation.
+A project using cloud-based IoT system using various Azure services. It explores telemetry ingestion, transport protocols, and cloud data processing through both software and hardware emulation. 
+I probably forgot alot of stuff or did not finish some things loll.
 
 ## Project Overview
 
